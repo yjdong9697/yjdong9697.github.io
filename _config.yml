@@ -48,9 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's Yonghoon Dong. I'm a junior student majoring Computer Science, Yonsei University.  
+  
+  I am interested in researching deep learning or machine learning using mathematical concepts. By doing so, I want to know the methodology of human thought processing.
+  I have learned with a lot of mathematical courses such as Linear Algebra, Real analysis and I am always looking for opportunities to study with other different mathmatical courses. 
 
 content:
   - title: Projects # Title for the section
